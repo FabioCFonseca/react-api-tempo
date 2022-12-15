@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-api-tempo/static/css/main.b1058c35.css",
+    "main.js": "/react-api-tempo/static/js/main.08990c20.js",
+    "static/media/sunset.jpg": "/react-api-tempo/static/media/sunset.ab19eb6fc568e5c0ff4d.jpg",
+    "index.html": "/react-api-tempo/index.html",
+    "main.b1058c35.css.map": "/react-api-tempo/static/css/main.b1058c35.css.map",
+    "main.08990c20.js.map": "/react-api-tempo/static/js/main.08990c20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1058c35.css",
+    "static/js/main.08990c20.js"
+  ]
+}
